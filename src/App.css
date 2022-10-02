@@ -1,0 +1,11 @@
+
+.completed{
+  text-decoration: line-through;
+}
+
+button{
+  margin: 0 15px;
+}
+li{
+  display: flex;
+}
